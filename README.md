@@ -19,4 +19,6 @@ This repository serves as a STARTER TEMPLATE for the Yearlong Programming Projec
 - Fork or clone this repository.
 - Open the datasets in the `/data` folder to explore the contents.
 - Follow the proposal template to draft your plan.
+- #😂🫱 scu BOIIIIIIIII
+
 
