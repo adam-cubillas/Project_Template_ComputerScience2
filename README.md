@@ -1,5 +1,5 @@
 # Project_Template_ComputerScience2
-Our project was made because we realized people (usually kids) can't keep track of allowances, as they may be lost in their own world spending everything, and suddenly they realized they don't have money anymore.
+Our project was made because we realized people (usually teenagers) can't keep track of allowances, as they may be lost in their own world spending everything, and suddenly they realized they don't have money anymore.
 
  We decided to help fellow Pisayans by making this program, helping other people keep track of their money and expenses, instead of blindly buying and eventually losing all of their money.
 
